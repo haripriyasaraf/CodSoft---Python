@@ -2,6 +2,7 @@
 Welcome to the CodSoft Internship Python Applications repository! This repository contains a collection of Python applications developed as a part of the internship program at CodSoft. These applications are designed to showcase various skills and concepts learned during the internship, including task management, calculations, and security.
 
 Applications Included:
+
 **To-Do List:** A simple command-line to-do list application where users can add, view, edit, and delete tasks.
 **Calculator:** A basic calculator application capable of performing arithmetic operations such as addition, subtraction, multiplication, and division.
 **Password Generator:** A tool for generating strong and secure passwords with customizable options like length and character types.
